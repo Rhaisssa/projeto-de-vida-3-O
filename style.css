@@ -103,3 +103,6 @@ body {
   font-size: 20px;
   text-align: center;
 }
+.aba-conteudo {
+  display: none;
+}
